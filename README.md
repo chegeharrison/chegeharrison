@@ -1,5 +1,4 @@
-# 💫 About Me:
-## 🚀 About Me<br>-
+## 💫 About Me:
  -🔭 Currently working on **Django-based web applications**  <br> 
  -🌱 Learning **Django Allauth & Advanced Data Science techniques**  <br>
  -👯 Open to collaborating on **Python/Django projects**  <br>
