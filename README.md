@@ -1,5 +1,11 @@
 # 💫 About Me:
-## 🚀 About Me<br>- 🔭 Currently working on **Django-based web applications**  <br>- 🌱 Learning **Django Allauth & Advanced Data Science techniques**  <br>- 👯 Open to collaborating on **Python/Django projects**  <br>- 💬 Ask me about **Web Development, Statistics, and Data Science**  <br>- 📫 Reach me at: **chegeharrison10@gmail.com**  <br>- ⚡ Fun fact: The name *Django* comes from jazz guitarist **Django Reinhardt** 🎸  
+## 🚀 About Me<br>-
+ -🔭 Currently working on **Django-based web applications**  <br> 
+ -🌱 Learning **Django Allauth & Advanced Data Science techniques**  <br>
+ -👯 Open to collaborating on **Python/Django projects**  <br>
+ -💬 Ask me about **Web Development, Statistics, and Data Science**  <br>
+ -📫 Reach me at: **chegeharrison10@gmail.com**  <br>
+ -⚡ Fun fact: The name *Django* comes from jazz guitarist **Django Reinhardt** 🎸  
 
 
 ## 🌐 Socials:
